@@ -1,0 +1,5 @@
+timestamp,coin,type,amount,price_at_transaction
+2025-10-01 12:00:00,bitcoin,buy,0.01,50000
+2025-10-15 14:30:00,ethereum,buy,0.5,2500
+2025-11-05 10:00:00,bitcoin,buy,0.005,60000
+2025-12-01 18:00:00,ethereum,sell,0.2,4000
